@@ -1,2 +1,2 @@
-# smoke_animation
+# Smoke Animation
 Simple smoke animation in Pygame...
