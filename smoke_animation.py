@@ -1,7 +1,7 @@
 import pygame
 import math
 import random
-
+pygame.init()
 class Smoke:
     def __init__(self,**kwargs):
         self.x = kwargs['x']
